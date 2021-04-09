@@ -1,4 +1,5 @@
 """
+Takes a 2 stage liquid fuel rocket to orbit.
 Some of the code from kRPC Tutorial: https://krpc.github.io/krpc/tutorials/launch-into-orbit.html
 """
 
